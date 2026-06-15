@@ -1,0 +1,16 @@
+company_name,service_type,price_min,price_max,location,website,rating,review_count
+RopePro Indonesia,rope_access,25727801,31463451,Jakarta Selatan,https://ropepro.co.id,3.5,78
+RopePro Indonesia,glass_cleaning,12108603,17853457,Jakarta Selatan,https://ropepro.co.id,3.7,34
+RopePro Indonesia,maintenance,38299464,43216647,Jakarta Selatan,https://ropepro.co.id,4.3,16
+Altus Safety,rope_access,15499914,20643804,Jakarta Pusat,https://altussafety.id,3.8,137
+Altus Safety,glass_cleaning,8445199,19861328,Jakarta Pusat,https://altussafety.id,3.8,174
+Altus Safety,maintenance,38285201,54361950,Jakarta Pusat,https://altussafety.id,3.8,158
+Jakarta Rope Access,rope_access,19667265,21885327,Jakarta Barat,https://jakartaropeaccess.com,4.6,48
+Jakarta Rope Access,glass_cleaning,15090293,19944521,Jakarta Barat,https://jakartaropeaccess.com,3.9,63
+Jakarta Rope Access,maintenance,31294238,36723845,Jakarta Barat,https://jakartaropeaccess.com,3.6,32
+SkyClean Services,rope_access,21022674,34563912,Jakarta Utara,https://skyclean.id,4.3,214
+SkyClean Services,glass_cleaning,8728977,22971844,Jakarta Utara,https://skyclean.id,4.1,39
+SkyClean Services,maintenance,32701506,37345601,Jakarta Utara,https://skyclean.id,4.3,220
+HighRise Maintenance,rope_access,25546825,39681282,Tangerang,https://highrisemaintenance.co.id,4.3,188
+HighRise Maintenance,glass_cleaning,9166941,11935746,Tangerang,https://highrisemaintenance.co.id,4.4,205
+HighRise Maintenance,maintenance,29710248,34387622,Tangerang,https://highrisemaintenance.co.id,4.7,229

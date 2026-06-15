@@ -1,7 +1,8 @@
 __pycache__/
 *.py[cod]
+*.egg-info/
 .venv/
 venv/
-data/*.csv
-!data/.gitkeep
-*.png
+env/
+.DS_Store
+.env
